@@ -1,4 +1,4 @@
-# First Class Capital
+# Webpack local server
 
 This uses angular with webpack using ES6. The code design pattern is based on this : Based on http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack/ 
 
