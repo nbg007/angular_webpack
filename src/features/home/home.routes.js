@@ -8,6 +8,7 @@ export default function routes($stateProvider) {
     $stateProvider.state('home', {
             url: '/home',
             template: template,
-            controller: HomeController
+            controller: HomeController,
+            controllerAs:'home'
         })
 }
