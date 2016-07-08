@@ -8,4 +8,8 @@ import routing from './app.config';
 
 import home from './features/home';
 
-angular.module('app', [uirouter, routing, home]);
+angular.module('app', [
+                        uirouter,
+                        routing,
+                        home
+                    ]);
